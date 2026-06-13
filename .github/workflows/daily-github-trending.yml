@@ -3,7 +3,7 @@ name: Daily GitHub Trending Push
 on:
   schedule:
     # 04:00 UTC = 12:00 Asia/Shanghai
-    - cron: "0 4 * * *"
+    - cron: "13 4 * * *"
   workflow_dispatch:
 
 jobs:
