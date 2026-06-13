@@ -1,6 +1,6 @@
 # GitHub Trending Daily Push
 
-每天中午 12 点自动获取 GitHub 当日热门开源项目，并通过飞书机器人推送。
+每天自动获取 GitHub 当日热门开源项目，并通过飞书机器人推送。
 
 ## 使用方式
 
